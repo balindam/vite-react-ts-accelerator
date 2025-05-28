@@ -1,0 +1,34 @@
+# Dependencies
+/node_modules
+
+# Production
+/build
+/dist
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.json
+
+# env files
+.env
+.env.local
+.env.dev
+.env.development
+.env.qa
+.env.stage
+.env.prod
+.env.production
+
+# Editor directories and files
+.idea
+.vscode
+
+# Vite
+.vite
+
+# Cache
+.eslintcache
+.cache
+.parcel-cache 
+*storybook.log
